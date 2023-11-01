@@ -21,18 +21,8 @@ Based on the sensor readings, the system will identify when a vehicle comes clos
 
 ## ThinkerCAD Link
 
-    ```markdown
-        [Click here to view the main circuit on Tinkercad](https://www.tinkercad.com/things/ePhyYnKkCGO-main-circuit)
-    ```
+[Click here to view the main circuit on Tinkercad](https://www.tinkercad.com/things/ePhyYnKkCGO-main-circuit)
 
-
-    ```markdown
-        ![Alt Text](URL)
-    ```
-
-    ```markdown
-        ![Project Image](https://example.com/image.png)
-    ```
 
 ## Design
 

@@ -43,8 +43,8 @@ Based on the sensor readings, the system will identify when a vehicle comes clos
 
 ## Demo Video link
 
-1. Click here ![CHEESE!]("https://vitacin-
+1. Click here ![CHEESE!](https://vitacin-
 my.sharepoint.com/:v:/g/personal/tadipatri_yaswanth2021_vitstudent_ac_in/EZ_PhBx2Zf1
-OhDCzPxVzSoUBNeAxihf7X1g3TGbiyOEsBA?e=yPHVl4")
+OhDCzPxVzSoUBNeAxihf7X1g3TGbiyOEsBA?e=yPHVl4)
 
 For more details you can view my ./21BIT0564_project_description.pdf file.
